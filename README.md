@@ -8,8 +8,10 @@ The repository is organized based on the phases of a cyberattack as defined by M
 ### Current Structure
 
 - **Reconnaissance**
+  - [General](./Reconnaissance/General.md)
   - [AMASS](./Reconnaissance/AMASS.md)
   - [Sn1per](./Reconnaissance/Sn1per.md)
+  - [theHarvester](./Reconnaissance/theHarvester.md)
 
 As the repository grows, additional tactics and tools will be documented.
 
