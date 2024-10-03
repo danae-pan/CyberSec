@@ -4,7 +4,7 @@ Github repo: https://github.com/laramies/theHarvester
 
 theHarvester in Kali Linux: https://www.kali.org/tools/theharvester/
 
-### **Installation**
+#### **Installation**
 
 https://github.com/laramies/theHarvester/wiki/Installation
 
