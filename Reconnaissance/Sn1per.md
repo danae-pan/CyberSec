@@ -14,7 +14,7 @@ sudo bash install.sh
 **Note**: Sn1per needs to be run as root 
 ```bash 
 sudo -i
-````
+```
 
 #### Covered Techniques (MITRE ATT&CK)
 - T1595: Active Scanning
@@ -24,7 +24,7 @@ sudo -i
 - T1593: Search Open Source Website/Domains
 - T1589: Gather Victim Identity Information 
 
-### 1\. Basic Target Scan
+### 1. Basic Target Scan
 
 ```bash
 sniper -t <target>

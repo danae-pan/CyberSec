@@ -90,7 +90,7 @@ theHarvester -d <domain> -b all --limit <number> -p
 
 ```bash 
 theHarvester -d <domain> -b all --dns-brute --take-screenshots
-````
+```
 
 - Purpose: Performs a DNS brute force attack and takes screenshots of discovered subdomains.
 - Use Case: This is helpful during red team assessments when detailed reconnaissance and visual confirmation of discovered services are required.
